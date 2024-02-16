@@ -39,3 +39,7 @@ The dashboard offers insights into:
 
 **Conclusion**  
 Overall, the dashboard serves as a valuable tool for the sales manager to track performance, identify trends, and make informed decisions based on the provided metrics and visualizations.
+
+
+
+<img width="822" alt="Screenshot 2024-02-16 162810" src="https://github.com/rajmhapsekar/Power-Bi-Projects/assets/122268955/ab4d0c90-2719-40e8-b97c-80576dd3addf">
