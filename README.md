@@ -1,4 +1,4 @@
-**#Global Super Stores Dashboard Project#**
+<h1>**Global Super Stores Dashboard Project** (largest)</h1>
 
 **Introduction**
 This project involves the creation of a dashboard aimed at providing insights from the Global Super Stores dataset. The dashboard is designed to cater to the viewpoint of a sales manager, offering key metrics and visualizations to aid in decision-making and performance evaluation.
